@@ -1,0 +1,857 @@
+@media (max-width: 400px) {
+    .price-graph-text {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .calculator-info-col {
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+    .all-price {
+        font-size: 10px;
+        text-align: center;
+    }
+
+    .price-graph-category {
+        font-size: 10px;
+    }
+
+    .single-price {
+        font-size: 10px;
+        text-align: center;
+    }
+    .calculate-col-border-price {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .calculate-loan-prices {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .costs-table {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .gfe-symbols-col {
+        padding-left: 6px;
+        padding-right: 0px;
+    }
+}
+@media (max-width: 768px) {
+    .header-white-block {
+        background-color: white;
+        padding-top: 64px;
+        margin-left: 0px;
+        padding-right: 30px;
+        height: auto;
+        min-height: auto;
+        width: 100%;
+        margin-top: 0px;
+        padding-bottom: 20px;
+    }
+
+    .the-team-header {
+        padding-top: 75px;
+    }
+
+    .blue-section {
+        padding: 54px 0px 96px 0px;
+    }
+
+    .element-align-mobile-center{
+        justify-content: center;
+        align-content: center;
+    }
+    
+    .city {
+        justify-content: center;
+    }
+
+    .category-cards-row {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+
+    .content-menu-tripple {
+        border-bottom: none;
+    }
+
+    .content-menu-text-2 {
+        font-size: 25px !important;
+    }
+
+    .mobile-block-paddings-styling {
+        padding-top: 0px !important;
+        margin-top: 0px !important;
+    }
+    .header-buyer-page {
+        padding-top: 60px;
+        padding-bottom: 0px;
+    }
+
+    .refinance-text-grid {
+        margin-bottom: 0px;
+    }
+
+    .closing-cost-icon {
+        background-image: url("images/closingcostLogo.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 40%;
+    }
+
+    .gfe-price-symbols {
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 16px;
+    }
+    .gfe-price-symbols-no-border {
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 16px;
+    }
+    .gfe-quote-section {
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 16px;
+    }
+    .gfe-quote-section-minus-bottm-border {
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 16px;
+    }
+
+
+    .calculator-contaxt-text {
+        font-size: 15px;
+    }
+    .calculator-contaxt-info-underline {
+        font-size: 15px;
+    }
+    .calculator-contaxt-info {
+        font-size: 15px;
+    }
+
+    .insurance-symbols {
+        font-size: 15px;
+    }
+    .title-calculator-services {
+        padding-left: 10px;
+    }
+
+    .insurance-cost-text {
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+
+    .timios-under-info-row {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .timios-info-header {
+        font-size: 24px;
+    }
+    .timios-info-text {
+        font-size: 14px;
+    }
+    .timios-info-text-important {
+        font-size: 24px;
+    }
+    .timios-info-order-text {
+        font-size: 14px;
+    }
+    .timios-under-info-text-important {
+        font-size: 24px;
+    }
+    .timios-under-info-text {
+        font-size: 14px;
+    }
+    .timios-info-col {
+        padding-left: 20px;
+    }
+    .timios-under-info-col {
+        padding-left: 20px;
+    }
+
+    .price-graph-text {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .all-price {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .price-graph-category {
+        font-size: 16px;
+    }
+
+    .single-price {
+        font-size: 16px;
+        text-align: center;
+    }
+    .calculate-col-border-price {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .calculate-loan-prices {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .costs-table {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .big-calculate-text {
+        margin-top: -125px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .calculate-text {
+        color: #454a51;
+        font-family: InterUIRegular;
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 28px;
+    }
+
+    .blue-section3 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .selector-mobile-padding {
+        padding-bottom: 15px;
+    }
+    .selector-mobile-padding2 {
+        margin-bottom: -20px;
+    }
+    .services-blue-section-header-box {
+        padding: 0px;
+    }
+    .blue-section-header-text2 {
+        text-align: center;
+    }
+    .header-text-left-center {
+        text-align: center;
+    }
+    .blue-section3-aqua-btn {
+        width: 100%;
+    }
+
+    .services-blue-section-header2 {
+        padding-top: 18px;
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .features-center-block {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        border-top: solid 3px rgba(74, 74, 74, 0.26);
+        border-bottom: solid 3px rgba(74, 74, 74, 0.26);
+        border-left: none;
+        border-right: none;
+    }
+
+    .section-point {
+        margin-bottom: 25px;
+    }
+
+    .section-points {
+        margin-top: 78px;
+        margin-right: 0px;
+    }
+
+    .open-order {
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .open-order-input-fn {
+        padding-right: 0px
+    }
+
+    .open-order-input-ln {
+        padding-left: 0px
+    }
+
+    .carousel-title {
+        margin-top: 40px;
+        margin-bottom: 54px;
+    }
+
+    .owl-navs {
+        display: none;
+    }
+
+    .footer {
+        padding-left: 16px;
+        padding-right: 16px;
+        text-align: center;
+        align-content: center;
+        align-items: center;
+    }
+
+    .footer-margin-1 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-top: 0px;
+    }
+
+    .footer-contacts {
+        max-width: 50%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+    }
+
+    .footer-margin-2 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-bottom: 0px;
+    }
+
+    .footer-media {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-left: 0px;
+    }
+
+    .footer-media2 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .media-icons {
+        padding-bottom: 0px;
+        padding-left: 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        justify-content: center;
+    }
+    .white-section-text1 {
+        text-align: center;
+        padding-left: 10px;
+    }
+    .white-section-text2 {
+        text-align: center;
+        padding-left: 10px;
+    }
+    .white-section-text3 {
+        text-align: center;
+        padding-left: 10px;
+    }
+
+    .download-text {
+        padding-top: 20px !important;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        justify-content: center;
+    }
+
+    .footer-links {
+        max-width: 50%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .footer-info {
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        justify-content: center;
+    }
+
+    .footer-dwnload-apps {
+        justify-content: center;
+    }
+
+    .vertical-center {
+        padding-top: 90px;
+    }
+
+    .help-section {
+        margin-top: 76px;
+    }
+
+    .services-image-section {
+        height: 540px;
+        background-color: #226fac;
+    }
+
+    .services-image-section img {
+        width: 100%;
+        height: auto;
+    }
+
+    .services-blue-section {
+        padding: 66px 140px 99px 65px;
+        height: auto;
+        background-color: #226fac;
+    }
+
+    .services-big-btns-row {
+        padding-top: 100px;
+        padding-bottom: 0px;
+        width: 100%;
+    }
+
+    .blue-section2 {
+        background-color: #226fac;
+        padding: 54px 20px 96px 20px;
+    }
+
+    .padding-for-form {
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+
+    .buyer-step-col1 {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .buyer-step-col2 {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        border: none;
+    }
+
+    .buyer-list-item {
+        font-size: 16px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .blue-section-mobile-padding {
+        padding: 35px;
+    }
+
+    .buyer-step-two {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .padding-mobile {
+        padding-top: 20px;
+    }
+
+    .seller-text-block-section {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .cov-center-block {
+        border-left: none;
+        border-right: none;
+    }
+
+    .our-cov-center-section {
+        border-top: solid 3px #226fac;
+        border-bottom: solid 3px #226fac;
+    }
+
+    .who-we-are-header {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .who-we-are-col {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .state-header {
+        padding-top: 40px;
+    }
+
+    .the-team-annotation {
+        padding-left: 10vw;
+        padding-right: 10vw;
+    }
+
+    .closing-cost-text-2-row {
+        justify-content: center;
+    }
+
+    .closing-calc-btns-col {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .modal-block {
+        width: 100vw;
+        height: auto;
+        padding: 0;
+        margin: 0;
+        margin-top: 15vw;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, 70%) !important;
+
+    }
+
+    .modal-close {
+        margin-top: 15px;
+        margin-right: 15px;
+    }
+
+    .close-btn {
+        width: 20px;
+    }
+
+    .content-menu-text {
+        font-size: 14px;
+        padding: 0;
+        padding-top: 30px;
+    }
+
+    .scrollable-content-menu-vendors {
+        border-bottom: 0;
+    }
+    
+    .content-menu-vendors {
+        padding-top: 70px;
+        text-align: center;
+    }
+
+    .products-header-text {
+        padding-top: 20px;
+    }
+    .white-block-header-prod2 {
+        font-size: 45px;
+    }
+    .white-block-header-prod {
+        font-size: 30px;
+    }
+    .products-header-white-block {
+        padding: 25px;
+        margin: 0;
+    }
+    .products-header {
+        text-align: center;
+        padding-top: 40px;
+    }
+    .content-menu-products {
+        padding-bottom: 75px;
+    }
+
+    .carousel-card {
+        width: 100%;
+        height: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .testimonial-card {
+        max-width: 90vw;
+    }
+
+    .home-head-desctop {
+        display: none;
+    }
+
+    .category-card {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .home-head-header {
+        font-size: 45px;
+    }
+    .home-head-mobile {
+        display: block;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .closing-cost-text-block {
+        text-align: center;
+        padding-top: 25px;
+    }
+
+    .white-section-text-row {
+        justify-content: center;
+        padding-left: 10px;
+    }
+
+    .home-head-image-block {
+        background-image: url("images/HomeMain.png");
+        background-position: left top;
+        background-size: 180%;
+        height: 400px;
+        padding: 0;
+        width: 100%;
+        background-repeat: no-repeat;
+    }
+
+    .header-block-wide {
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: center;
+    }
+
+    .home-nav-mobile {
+        background-color: white;
+        padding-bottom: 20px;
+        padding-right: 20px
+    }
+
+    .head-image-block {
+        background-size: cover;
+        padding: 0;
+        width: 100%;
+        height: 220px;
+    }
+
+    .products-header-text {
+        padding-bottom: 75px;
+    }
+
+    .header-underline {
+        display: inline-block;
+        border-bottom: solid 0px #226fac;
+        padding-bottom: 2px;
+    }
+
+    .refinance-text-col {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .login-inner-block {
+        padding-top: 20px;
+        padding-left: 30px;
+        padding-right: 20px;
+    }
+
+    .sign-up-container {
+        margin-top: 30px;
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .sign-up-header {
+        margin-right: 0px;
+    }
+
+    .login-btn {
+        width: 100%;
+    }
+
+    .sign-up-btn {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .copyright {
+        padding-left: 0px;
+    }
+
+    .btn-services {
+        margin-top: 10px;
+        margin-left: 0px;
+        margin-right: 0px;
+        border: solid 2.7px #3fc9ea;
+        border-radius: 4.5px;
+        height: 80px;
+        width: 568px;
+        padding-top: 14px;
+        font-family: TiemposHeadline;
+        font-size: 25px !important;
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 0.1px;
+        text-align: center;
+        color: #1d4460;
+    }
+    .team-card-text-section {
+        height: auto;
+    }
+}
+
+@media (max-width: 991px) {
+    .drop-menu-styling {
+        margin-left: 0;
+        margin-top: 0px;
+    }
+
+    .buyer-list-item {
+        font-size: 20px;
+    }
+
+    .who-we-are-col {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .city {
+        font-size: 17px;
+    }
+    .chekbox-label-signup {
+        padding-top: 0px;
+        margin-left: 30px;
+        margin-bottom: 5px;
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 1100px) {
+
+    .services-blue-section {
+        padding: 66px 40px 99px 40px;
+    }
+
+    .blue-section2 {
+        padding: 54px 40px 96px 40px;
+    }
+
+    .services-home-column {
+        padding: 80px 50px 50px 25px;
+    }
+
+    .services-home-column2 {
+        padding: 80px 50px 50px 25px;
+    }
+
+    .services-home-column3 {
+        padding: 80px 50px 50px 25px;
+    }
+    .grey-text {
+        font-size: 22px;
+    }
+    .blue-box {
+        font-size: 22px;
+    }
+    .col-point-menu {
+        padding-top: 75px;
+        padding-right: 0px;
+    }
+
+    .header-white-block h1 {
+        font-family: TiemposHeadline;
+        font-size: 35px;
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.33;
+        letter-spacing: 0px;
+        color: #4a4a4a;
+    }
+
+    .team-card-text-section {
+        height: auto;
+    }
+}
+
+@media (max-width: 1220px) {
+
+    .section-points {
+        margin-left: 0px;
+        margin-top: 78px;
+        margin-right: 0px;
+    }
+
+    .card-circle-image {
+        position: absolute;
+        margin-left: 245px;
+        width: 103px;
+        height: 103px;
+    }
+
+    .header-white-block h3 {
+        font-family: GTWalsheimPro;
+        font-size: 18px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.19;
+        letter-spacing: normal;
+        color: #4a4a4a;
+    }
+
+    .features {
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-top: 0px;
+    }
+
+    .features-item {
+        margin-top: 50px;
+    }
+
+    .content-block-title {
+        margin-top: 55px;
+        margin-bottom: 55px;
+    }
+
+    .section-point {
+        padding-left: 0px;
+        margin-bottom: 25px;
+    }
+
+    .white-section {
+        margin: 0px;
+        padding: 54px 0px 96px 0px
+    }
+
+    .btn-services {
+        margin-top: 10px;
+        margin-left: 40px;
+        margin-right: 40px;
+        border: solid 2.7px #3fc9ea;
+        border-radius: 4.5px;
+        height: 80px;
+        width: 568px;
+        padding-top: 14px;
+        font-family: TiemposHeadline;
+        font-size: 3.5vw;
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 0.1px;
+        text-align: center;
+        color: #1d4460;
+    }
+
+    .blue-section2-col2 {
+        margin-left: 0px;
+    }
+
+    .services-blue-section {
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: #226fac;
+    }
+
+    .services-blue-section-text {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .buyer-step-col1 {
+        padding-left: 5vw;
+        padding-right: 1vw;
+    }
+
+    .buyer-step-col2 {
+        padding-left: 1vw;
+        padding-right: 5vw;
+    }
+}

@@ -1,0 +1,55 @@
+@font-face {
+    font-family: InterUI;
+    src: url(fonts/InterUI/Inter-UI-Medium.ttf);
+}
+
+@font-face {
+    font-family: InterUIRegular;
+    src: url(fonts/InterUI/Inter-UI-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: TiemposHeadline;
+    src: url(fonts/TiemposHeadline/TiemposHeadlineWeb-Semibold.otf);
+}
+
+@font-face {
+    font-family: GTWalsheimPro;
+    src: url(fonts/GTWalsheimPro/GT-Walsheim-Pro-Light.ttf);
+}
+
+@font-face {
+    font-family: GTWalsheimProLight;
+    src: url(fonts/GTWalsheim/GT-Walsheim-Pro-Light-Oblique.ttf);
+}
+
+@font-face {
+    font-family: TiemposHeadline;
+    src: url(fonts/TiemposHeadline/TiemposHeadlineWeb-Semibold.otf);
+}
+
+@font-face {
+    font-family: GTWalsheimPro-Light;
+    src: url(fonts/GTWalsheimPro/GT-Walsheim-Pro-Light.ttf);
+}
+
+@font-face {
+    font-family: GTWalsheimProTrial;
+    src: url(fonts/GTWalsheimPro/GT-Walsheim-Pro-Medium.ttf);
+}
+
+@font-face {
+    font-family: TiemposHeadline;
+    src: url(fonts/TiemposHeadline/TiemposHeadlineWeb-Semibold.otf);
+}
+
+@font-face {
+    font-family: GTWalsheimPro-Regular;
+    src: url(fonts/GTWalsheimPro/GT-Walsheim-Pro-Light.ttf); /* */
+}
+
+@font-face {
+    font-family: GTWalsheimPro-MediumOblique;
+    src: url(fonts/GTWalsheimPro/GT-Walsheim-Pro-Light-Oblique.ttf);
+}

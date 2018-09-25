@@ -1,0 +1,3219 @@
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.container-fluid {
+    max-width: 1280px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.navbar {
+    padding-left: 57px;
+    padding-right: 57px;
+}
+
+.navbar-brand-img {
+    max-width: 231px;
+    height: auto;
+}
+
+.nav-link-text {
+    font-family: InterUI;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    color: #226fac;
+}
+
+.navbar-nav {
+    padding-top: 10px;
+    padding-left: 85px;
+}
+
+.btn-blue {
+    border-radius: 2px;
+    background-color: #226fac;
+    color: #ffffff;
+}
+
+.btn-blue:hover {
+    color: #ffffff;
+}
+
+.btn-white {
+    border-radius: 2px;
+    border: solid 1px #226fac;
+    color: #226fac;
+}
+
+.btn-white:hover {
+    color: #226fac;
+}
+
+.nav-auth-btn {
+    padding-top: 4px;
+    margin-top: 10px;
+    width: 99px;
+    height: 32px;
+    font-family: InterUI;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    text-align: center;
+}
+
+.col-sm-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.header-image {
+    max-width: 100%;
+    margin-top: 60px;
+}
+
+.header-white-block {
+    background-color: white;
+    padding-top: 64px;
+    padding-left: 64px;
+    padding-right: 60px;
+    min-height: 353px;
+    width: 691px;
+    margin-top: -250px;
+    margin-left: 65px;
+    padding-bottom: 60px;
+    border: #454a51 1px solid;
+}
+
+.header-block-wide {
+    width: 898px;
+    border: white 0px solid;
+    margin-top: -351px;
+}
+
+
+.products-header-white-block {
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 64px;
+    padding-right: 60px;
+    max-width: 1103px;
+    margin-top: -50px;
+    margin-left: 65px;
+    padding-bottom: 40px;
+    border: #454a51 1px solid;
+}
+
+.header-white-block h1 {
+    font-family: TiemposHeadline;
+    font-size: 60px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: 0px;
+    color: #4a4a4a;
+}
+
+.header-white-block h3 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #4a4a4a;
+}
+
+.header-underline {
+    display: inline-block;
+    border-bottom: solid 5px #226fac;
+    padding-bottom: 2px;
+}
+
+.header-underline-aqua {
+    display: inline-block;
+    border-bottom: solid 5px #3fc9ea;
+    padding-bottom: 2px;
+}
+
+.features {
+    margin-top: 170px;
+}
+
+.features-center-block {
+    border-left: solid 3px rgba(74, 74, 74, 0.26);
+    border-right: solid 3px rgba(74, 74, 74, 0.26);
+}
+
+.features-head {
+    font-family: GTWalsheimProTrial;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+    padding-top: 25px;
+    padding-bottom: 11px;
+}
+
+.features-text {
+    font-family: GTWalsheimProLight;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: oblique;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: #727272;
+}
+
+.features-text2 {
+    font-family: GTWalsheimProLight;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: oblique;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #727272;
+}
+
+.features-text3 {
+    font-family: GTWalsheimProLight;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: oblique;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #4a4a4a;
+}
+
+.content-block-title {
+    margin-top: 70px;
+    margin-bottom: 55px;
+    font-family: GTWalsheimProTrial;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.blue-section {
+    background-color: #226fac;
+    padding: 54px 91px 96px 103px
+}
+
+.blue-section-header-text {
+    color: #ffffff;
+    letter-spacing: 0px;
+    padding-bottom: 3px;
+    border-bottom: solid 5px #3fc9ea;
+}
+
+.closing-cost-calculator1 {
+    display: none;
+}
+.closing-cost-calculator2 {
+    padding-top: 75px;
+}
+.white-section {
+    background-color: #ffffff;
+    padding: 54px 55px 96px 40px;
+    border-top: 1px solid #d8d8d8;
+    border-bottom: 1px solid #d8d8d8;
+}
+.white-section2 {
+    background-color: #F3F4F4;
+    padding: 54px 55px 96px 40px;
+    border-top: 1px solid #d8d8d8;
+    border-bottom: 1px solid #d8d8d8;
+}
+
+.white-section-header-text {
+    color: #4a4a4a;
+    letter-spacing: 0px;
+    padding-bottom: 3px;
+    border-bottom: solid 5px #226fac;
+}
+
+.under-border-aqua-blue {
+    border-bottom: solid 5px #3fc9ea;
+}
+
+.section-header-text {
+    text-align: center;
+    font-family: TiemposHeadline;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+}
+
+.header-text-left {
+    text-align: left;
+    font-family: TiemposHeadline;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+}
+.oval {
+    margin-top: 2px;
+    width: 23px;
+    height: 23px;
+    border: solid 2px #d8d8d8;
+    border-radius: 50%;
+}
+
+.section-points {
+    margin-top: 78px;
+    margin-right: 0px;
+}
+
+.section-point {
+    margin-bottom: 20px;
+}
+
+.section-point2 {
+    margin-bottom: 0px;
+}
+
+.point-text {
+    font-family: InterUI;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.section-text {
+    padding-top: 20px;
+    font-family: GTWalsheimPro-Light;
+    font-size: 24px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+    max-width: 353px;
+    padding-bottom: 54px;
+}
+
+.section-text2 {
+    padding-top: 70px;
+    font-family: GTWalsheimPro-Light;
+    font-size: 24px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+    max-width: 353px;
+    height: 280px;
+}
+
+.white-section-text {
+    font-family: GTWalsheimPro;
+    font-size: 26px;
+    padding-top: 70px;
+    padding-left: 40px;
+    height: 280px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.23;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.big-white-btn {
+    width: 246px;
+    height: 56px;
+    border-radius: 4.5px;
+    border: solid 2.7px #3fc9ea;
+    font-family: InterUI;
+    font-size: 25.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff !important;
+}
+
+.big-blue-btn {
+    margin-top: 72px;
+    width: 246px;
+    height: 56px;
+    border-radius: 4.5px;
+    background-color: #226fac;
+    font-family: InterUI;
+    font-size: 25.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff !important;
+    border: 3px solid #226fac;
+}
+
+.input-field {
+    height: 48px;
+    font-family: InterUI;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.open-order {
+    margin-top: 75px;
+    margin-right: 20px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.open-order-input {
+    margin-top: 24px;
+}
+
+.open-order-input-fn {
+    padding-right: 10px;
+}
+
+.open-order-input-ln {
+    padding-left: 10px;
+}
+
+.carousel-title {
+    margin-top: 100px;
+    margin-bottom: 54px;
+}
+
+.carousel-title h1 {
+    font-family: TiemposHeadline;
+    font-size: 50px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.carousel-card {
+    height: 310px;
+    background-color: #ffffff;
+}
+
+.card-circle-image {
+    position: absolute;
+    margin-left: 245px;
+    width: 103px;
+    height: 103px;
+}
+
+.testimonial-card {
+    margin-left: 15px;
+    margin-right: 15px;
+    max-width: 360px;
+    margin-top: 60px;
+    height: 248px;
+    background-color: #226fac;
+    padding-bottom: 22px;
+    padding-top: 17px;
+    padding-left: 40px;
+    border-radius: 5px;
+    padding-right: 25px;
+    border-radius: 5px;
+}
+
+.testimonial-card2 {
+    margin-left: 15px;
+    margin-right: 15px;
+    max-width: 360px;
+    margin-top: 60px;
+    height: 248px;
+    background-color: #8F9297;
+    padding-bottom: 22px;
+    padding-top: 17px;
+    padding-left: 40px;
+    border-radius: 5px;
+    padding-right: 25px;
+    border-radius: 5px;
+}
+
+.backquotes {
+    font-family: TiemposHeadline;
+    font-size: 56px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #3fc9ea;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: -5px;
+}
+
+.backquotes2 {
+    font-family: TiemposHeadline;
+    font-size: 56px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: white;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: -5px;
+}
+
+.card-text {
+    width: 280px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-family: GTWalsheimPro-Regular;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.15;
+    letter-spacing: 0.1px;
+    color: #ffffff;
+}
+
+.initials {
+    margin-top: 16px;
+    font-family: GTWalsheimPro-Regular;
+    font-size: 16px;
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: right;
+    color: #ffffff;
+}
+
+.second-initials {
+    font-family: GTWalsheimPro-Regular;
+    font-size: 16px;
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: right;
+    color: #ffffff;
+}
+
+.group {
+    font-size: 10px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.1px;
+    text-align: right;
+    color: #3fc9ea;
+}
+
+.group2 {
+    font-size: 10px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.1px;
+    text-align: right;
+    color: white;
+}
+
+.arrow-left {
+    padding-top: 150px;
+    text-align: center;
+    margin-left: -20px;
+}
+
+.arrow-right {
+    margin-left: 20px;
+    padding-top: 150px;
+    text-align: right;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.owl-navs {
+    width: 100%;
+    margin-bottom: -250px;
+}
+
+.help-section {
+    margin-top: 150px;
+    height: 500px;
+    width: 100%;
+    background-color: #fafafa;
+}
+
+.help-section2 {
+    padding-top: 160px;
+    background-color: #fafafa;
+}
+
+.bottom-row h1 {
+    font-family: TiemposHeadline;
+    font-size: 55px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.vertical-center {
+    padding-top: 176px;
+}
+
+.bottom-title {
+    font-family: TiemposHeadline;
+    font-size: 55px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.bottom-row h1 {
+    font-family: TiemposHeadline;
+    font-size: 55px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.btn-learn-more {
+    margin: 5px;
+    border: solid 2.7px #3fc9ea;
+    border-radius: 4.5px;
+    height: 57px;
+    width: 280px;
+    padding-top: 9px;
+    font-family: InterUI;
+    font-size: 25.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #1d4460;
+}
+
+.btn-learn-more2 {
+    margin: 5px;
+    border: solid 2.7px #3fc9ea;
+    border-radius: 4.5px;
+    height: 57px;
+    width: 280px;
+    padding-top: 9px;
+    font-family: InterUI;
+    font-size: 25.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: white;
+}
+
+.btn-learn-more3 {
+    margin: 5px;
+    border: solid 2px #226fac;
+    border-radius: 4.5px;
+    height: 57px;
+    width: 280px;
+    padding-top: 8px;
+    color: #1d4460;
+    font-family: InterUIRegular;
+    font-size: 26px;
+    font-weight: 100;
+}
+
+.btn-learn-more4 {
+    margin: 5px;
+    border: solid 3px #1d4460;
+    border-radius: 4.5px;
+    height: 57px;
+    padding-top: 4.5px;
+    color: white;
+    font-family: InterUIRegular;
+    background-color: #1d4460;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.btn-learn-more5 {
+    margin: 5px;
+    border: solid 2px #226fac;
+    border-radius: 4.5px;
+    height: 57px;
+    padding-top: 6px;
+    color: #1d4460;
+    font-family: InterUIRegular;
+    font-size: 30px;
+    font-weight: 200;
+    min-width: 300px;
+}
+
+.btn-get-started {
+    margin: 5px;
+    height: 57px;
+    font-family: InterUI;
+    font-size: 25.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+    border: solid 2.7px #226fac;
+    width: 280px;
+    padding-top: 9px;
+    border-radius: 4.5px;
+    text-align: center;
+    background-color: #226fac;
+}
+
+.footer {
+    height: 100%;
+    padding-left: 75px;
+    padding-right: 55px;
+    padding-top: 48px;
+    padding-bottom: 55px;
+    background-color: #226fac;
+}
+
+.bottom-logo img {
+    height: 34px;
+    width: 160px;
+}
+
+.footer-links {
+    /*padding-left: 134px;*/
+    padding-left: 30px;
+}
+
+.copyright {
+    padding-left: 15px;
+    margin-top: 20px;
+    font-family: InterUIRegular;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: normal;
+    color: #e0e0e0;
+}
+
+.footer-info {
+    font-family: InterUIRegular;
+    font-size: 16px;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 200;
+    line-height: 2;
+    letter-spacing: normal;
+    color: #e0e0e0;
+}
+
+.footer-info b {
+    color: #3fc9ea
+}
+
+.footer-margin-1 {
+    padding-top: 10px;
+}
+
+.footer-contacts {
+    /*padding-left: 130px;*/
+    
+}
+
+.footer-margin-2 {
+    padding-bottom: 20px;
+}
+
+.footer-media {
+    padding-right: 5px;
+    margin-left: 60px;
+}
+
+.footer-media2 {
+    margin-left: 0px;
+}
+
+.footer-contacts b {
+    color: #3fc9ea;
+}
+
+.media-icons {
+    padding-bottom: 60px;
+    padding-left: 65px;
+}
+
+.download-text {
+    padding-left: 80px;
+}
+
+.services-section {
+    padding-top: 60px;
+}
+
+.services-header {
+    font-family: TiemposHeadline;
+    font-size: 50px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #1d4460;
+    padding-bottom: 52px;
+    width: 100%;
+}
+
+.services-blue-section {
+    padding: 66px 140px 99px 65px;
+    background-color: #226fac;
+}
+
+.services-blue-section-header {
+    display: inline-block;
+    border-bottom: solid 4px #3fc9ea;
+    padding-bottom: 4px;
+    font-family: TiemposHeadline;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.services-blue-section-text {
+    font-family: GTWalsheimPro;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    padding-top: 8px;
+    line-height: 1.45;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.services-image-section {
+    min-height: 540px;
+    max-height: 800px;
+    width: 100%;
+    background-image: url("images/Services.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.services-image-section img {
+    width: 100%;
+    max-height: 540px;
+}
+
+.services-big-btns-row {
+    padding-top: 150px;
+    width: 100%;
+}
+
+.btn-services {
+    margin-left: 40px;
+    margin-right: 40px;
+    border: solid 2.7px #3fc9ea;
+    border-radius: 4.5px;
+    max-height: max-content;
+    width: 568px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: TiemposHeadline;
+    font-size: 45px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #1d4460;
+}
+
+.blue-section2 {
+    background-color: #226fac;
+    padding: 54px 230px 60px 260px;
+}
+.blue-section3 {
+    background-color: #226fac;
+    padding: 54px 5% 60px 14%;
+}
+
+.blue-section2-col2 {
+    margin-left: 140px;
+}
+
+.blue-section2-col-header {
+    font-family: InterUI;
+    font-size: 25px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+    padding-left: 0;
+}
+
+.line-or {
+    padding-left: 0px;
+    padding-top: 10px;
+    font-family: InterUI;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.input-field2 {
+    height: 56px;
+    font-family: InterUI;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+    border: solid 1px #ffffff;
+    border-radius: 0px;
+    background-color: #226fac;
+}
+
+.input-field3 {
+    color: #4a4a4a;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 400;
+    border: 1px solid #979797;
+    border-radius: 0px;
+    background-color: white;
+    height: 48px;
+    padding-left: 30px;
+}
+
+.input-field3 option {
+    background-color: white;
+}
+
+.input-field3 option:hover {
+    background-color: #226fac;
+}
+
+.input-field3:hover {
+    border: 1px solid #3d3c3c;
+    box-shadow: none;
+}
+
+.input-field2::placeholder {
+    color: #90B6D5;
+}
+
+.padding-for-form {
+    padding-top: 49px;
+    padding-bottom: 148px;
+}
+
+.blue-section2-aqua-btn {
+    width: 246px;
+    height: 56px;
+    border-radius: 5px;
+    background-color: #3fc9ea;
+    padding-top: 8px;
+    font-family: InterUI;
+    font-size: 25.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #1d4460 !important;
+}
+.blue-section3-aqua-btn {
+    min-width: 246px;
+    height: 56px;
+    border-radius: 5px;
+    background-color: #3fc9ea;
+    padding-top: 8px;
+    font-family: InterUI;
+    font-size: 25.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: white !important;
+}
+
+.oval-box {
+    min-width: 23px;
+    padding-left: 0;
+}
+
+.services-blue-section2 {
+    padding: 245px 36px 99px 36px;
+    height: 540px;
+    background-color: white;
+}
+
+.services-blue-section-header2 {
+    display: inline-block;
+    padding-bottom: 4px;
+    padding-right: 0;
+    padding-left: 0;
+    font-family: TiemposHeadline;
+    font-size: 48px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #1d4460 !important;
+}
+
+.site-adress-col {
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    padding-top: 10px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    border: 2px solid #3fc9ea;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #226fac;
+}
+
+.index-site-link {
+    color: #226fac;
+    text-decoration: none;
+}
+
+.services-header2 {
+    font-family: TiemposHeadline;
+    font-size: 50px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    padding-top: 120px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #1d4460;
+    padding-bottom: 52px;
+    width: 100%;
+}
+
+.services-big-btns-row a {
+    text-decoration: none;
+}
+
+.services-big-btns-row a:hover {
+    text-decoration: none;
+    color: #3fc9ea;
+}
+
+.link-row1 a {
+    text-decoration: none;
+}
+
+.link-row1 a:hover {
+    text-decoration: none;
+    color: #3fc9ea;
+}
+
+.link-row2 a:visited {
+    color: #1d4460;
+}
+
+.link-row2 a {
+    text-decoration: none;
+}
+
+.link-row2 a:hover {
+    text-decoration: none;
+    color: #3fc9ea;
+}
+
+.services-blue-section-header2 {
+    border-radius: 2px;
+    border: solid 2px #3fc9ea;
+    width: 100%;
+    height: 80px;
+    padding-top: 10px;
+}
+
+.services-col {
+    width: 100%;
+    padding: 0;
+}
+
+.services-blue-section-header-box {
+    max-width: 740px;
+    padding-top: 215px;
+    padding-left: 36px;
+    padding-right: 36px;
+}
+
+.home-head-image-block {
+    background-image: url("images/HomeMain.png");
+    background-position: left top;
+    background-size: 160%;
+    height: 736px;
+    padding: 0;
+    width: 100%;
+}
+
+.head-image-block {
+    height: 700px;
+    padding: 0;
+    width: 100%;
+}
+
+.home-head-desctop {
+    display: block;
+}
+
+.home-head-mobile {
+    padding-top: 20px;
+    padding-left: 20px;
+    display: none;
+}
+
+.home-nav-mobile {
+    background-color: rgba(0, 0, 0, 0);
+    padding-bottom: 0px;
+    padding-right: 0px
+}
+
+.header-image-paddings {
+    padding-top: 40px;
+    padding-left: 110px;
+    padding-right: 495px;
+}
+
+.padding-for-head {
+    padding-top: 80px;
+}
+
+.home-head-header {
+    font-family: TiemposHeadline;
+    font-size: 64px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.11;
+    letter-spacing: 0.1px;
+    color: #4a4a4a;
+}
+
+.home-head-text {
+    font-family: GTWalsheimPro;
+    font-size: 28px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.32;
+    padding-top: 36px;
+    padding-right: 80px;
+    letter-spacing: 0px;
+    color: #1d4460;
+}
+
+.category-cards-row {
+    padding-top: 160px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 150px;
+}
+
+.category-cards-row2 {
+    padding-top: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 150px;
+}
+
+.category-card {
+    background-color: white;
+    padding: 10px 20px 30px 30px;
+}
+
+.category-card-header {
+    font-family: TiemposHeadline;
+    font-size: 32px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #1d4460;
+    padding-bottom: 5px;
+}
+
+.category-card-text {
+    padding-bottom: 27px;
+    font-family: GTWalsheimPro;
+    font-size: 20px;
+    font-weight: 300;
+    height: 102px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: 0px;
+    color: #1d4460;
+}
+
+.category-btn-text {
+    font-family: InterUI;
+    font-size: 12.7px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: #3fc9ea;
+}
+
+.category-btn {
+    height: 39.9px;
+    padding-top: 5px;
+    border: solid 1.5px #3fc9ea;
+    text-align: center;
+    min-width: 125px;
+    color: #3fc9ea;
+}
+
+.category-btn a {
+    text-decoration: none;
+}
+
+.category-card:hover {
+    background-color: #226fac;
+}
+
+.category-card:hover .category-card-header {
+    color: white;
+}
+
+.category-card:hover .category-card-text {
+    color: white;
+}
+
+.category-card:hover .category-btn {
+    color: white;
+}
+
+.services-home-image {
+    min-height: 553px;
+    background-size: cover;
+    background-position: center;
+}
+
+.services-home-column {
+    padding: 80px 125px 50px 70px;
+    background-color: #226fac;
+}
+
+.services-home-heading {
+    font-family: TiemposHeadline;
+    font-size: 60px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    padding: 0px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    padding-bottom: 50px;
+}
+
+.services-home-heading text {
+    border-bottom: solid 5px #3fc9ea;
+}
+
+.services-home-text1 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.22;
+    letter-spacing: 0px;
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+
+.services-home-text2 {
+    font-family: GTWalsheimPro-MediumOblique;
+    font-size: 32px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.22;
+    letter-spacing: 0.1px;
+    color: #ffffff;
+}
+
+.services-home-heading2 {
+    font-family: TiemposHeadline;
+    font-size: 60px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    padding: 0px;
+    letter-spacing: 0px;
+    color: #1d4460;
+    padding-bottom: 50px;
+}
+
+.services-home-text3 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.22;
+    letter-spacing: 0px;
+    color: #1d4460;
+    padding-bottom: 20px;
+}
+
+.services-home-text4 {
+    font-family: GTWalsheimPro-MediumOblique;
+    font-size: 32px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.22;
+    letter-spacing: 0.1px;
+    color: #1d4460;
+}
+
+.services-home-column2 {
+    padding: 80px 125px 50px 70px;
+    background-color: white;
+}
+
+.services-home-column3 {
+    padding: 80px 125px 50px 70px;
+    background-color: #454a51;
+}
+
+.dropdown-home {
+    cursor: pointer;
+    color: #226fac !important;
+}
+
+.drop-menu-styling {
+    background-color: #226fac;
+    border-radius: 4.5px;
+    height: 183px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 40px;
+}
+
+.dropdown-item-styling {
+    color: white;
+    font-family: GTWalsheimPro;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    padding-top: 12px;
+    padding-bottom: 15px;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+
+.refinance-text-col {
+    padding-left: 164px;
+    padding-right: 164px;
+}
+
+.refinance-text-block-header {
+    font-family: TiemposHeadline;
+    font-size: 50px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 25px;
+    color: #4a4a4a;
+}
+
+.refinance-text-subblock-header {
+    font-family: TiemposHeadline;
+    font-size: 34px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 25px;
+    color: #4a4a4a;
+}
+
+.refinance-text-subblock-article {
+    font-family: GTWalsheimPro;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.refinance-text-block-article {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.refinance-text-grid {
+    margin-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+}
+
+.refinance-btns-size {
+    min-width: 246px;
+}
+
+.header-buyer-page {
+    text-align: center;
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    padding-bottom: 60px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.buyer-steps {
+    padding-top: 62px;
+    padding-bottom: 100px;
+    background-color: #fafafa;
+}
+
+.buyer-steps-bg {
+    margin-top: 160px;
+    background-color: #fafafa;
+}
+
+.buyer-steps-header1 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.buyer-steps-header2 {
+    font-family: GTWalsheimPro;
+    font-size: 21px;
+    font-weight: 300;
+    padding-bottom: 50px;
+    font-style: oblique;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.buyer-step-col-header {
+    font-family: TiemposHeadline;
+    font-size: 42px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.26;
+    letter-spacing: 0.1px;
+    color: #4a4a4a;
+}
+
+.buyer-step-col1 {
+    padding-left: 200px;
+    padding-right: 50px;
+}
+
+.buyer-step-col2 {
+    border-left: solid 1px rgba(151, 151, 151, 0.64);
+    padding-left: 50px;
+    padding-right: 200px;
+}
+
+.buyer-steps-text {
+    font-family: GTWalsheimPro;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.1px;
+    color: #4a4a4a;
+    padding-top: 20px;
+    height: 175px;
+}
+
+.buyer-list-item {
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: 0.1px;
+    color: #4a4a4a;
+    padding-bottom: 10px;
+}
+
+.bg-transparent {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.square {
+    padding-left: 0px;
+}
+
+.square2 {
+    padding-top: 8px;
+    padding-left: 12vw;
+}
+
+.buyer-step-two {
+    padding-left: 163px;
+    padding-right: 163px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+
+.buyer-step-two-col1 {
+    background-color: #1c75bb;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 35px;
+}
+
+.buyer-step-two-header-col1 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #ffffff;
+    padding-bottom: 25px;
+}
+
+.buyer-step-two-text1-col1 {
+    font-family: GTWalsheimPro;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #ffffff;
+    padding-bottom: 25px;
+    padding-left: 49px;
+    padding-right: 49px;
+}
+
+.buyer-step-two-text2-col1 {
+    font-family: GTWalsheimPro;
+    font-size: 19px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #ffffff;
+    padding-bottom: 8px;
+}
+
+.buyer-step-two-text3-col1 {
+    font-family: GTWalsheimPro;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #ffffff;
+    padding-bottom: 30px;
+}
+
+.buyer-step-two-col2 {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 35px;
+}
+
+.buyer-step-two-header-col2 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #4a4a4a;
+    padding-bottom: 25px;
+}
+
+.buyer-step-two-text1-col2 {
+    font-family: GTWalsheimPro;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+    padding-bottom: 25px;
+    padding-left: 49px;
+    padding-right: 49px;
+}
+
+.buyer-step-two-text2-col2 {
+    font-family: GTWalsheimPro;
+    font-size: 19px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+    padding-bottom: 8px;
+}
+
+.buyer-step-two-text3-col2 {
+    font-family: GTWalsheimPro;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+    padding-bottom: 30px;
+}
+
+.buyer-step-two-last-row {
+    padding-bottom: 15px;
+}
+
+.buyer-step-col1-btn {
+    border-radius: 4.5px;
+    border: solid 2px #3fc9ea;
+    background-color: #3fc9ea;
+    font-family: InterUI;
+    font-size: 20.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #1d4460;
+    height: 57px;
+    padding-top: 14px;
+    min-width: 240px;
+}
+
+.buyer-step-two-btn {
+    margin-top: 10px;
+}
+
+.buyer-step-col2-btn {
+    border-radius: 4.5px;
+    border: solid 2px #3fc9ea;
+    font-family: InterUI;
+    font-size: 20.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #1d4460;
+    height: 57px;
+    padding-top: 14px;
+    min-width: 240px;
+}
+
+.seller-text-block-section {
+    padding-left: 190px;
+    padding-right: 190px;
+    padding-top: 50px;
+}
+
+.seller-text-block-header {
+    font-family: TiemposHeadline;
+    font-size: 50px;
+    padding-right: 10px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #3fc9ea;
+}
+
+.seller-text-block-text {
+    font-family: GTWalsheimPro;
+    font-size: 23px;
+    font-weight: 300;
+    font-style: oblique;
+    font-stretch: normal;
+    line-height: 1.35;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+    padding-bottom: 100px;
+}
+
+.seller-text-block-text2 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4a4a4a;
+    padding-bottom: 80px;
+}
+
+.who-we-are-col {
+    padding-left: 220px;
+    padding-right: 220px;
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+
+.who-we-are-header {
+    font-family: TiemposHeadline;
+    font-size: 48px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #444a52;
+    padding-bottom: 60px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.blue-word {
+    color: #0070b1;
+    padding-left: 5px;
+}
+
+.who-we-are-text {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.22;
+    letter-spacing: 0px;
+    color: #414a53;
+    padding-bottom: 30px;
+}
+
+.our-locations {
+    padding-left: 7vw;
+    padding-right: 7vw;
+    padding-bottom: 140px;
+}
+
+.our-loc-col {
+    padding-left: 5vw;
+}
+
+.our-loc-header {
+    font-family: TiemposHeadline;
+    font-size: 60px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #454a51;
+    padding-bottom: 4px;
+    text-align: center;
+}
+
+.our-loc-header2 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #454a51;
+    padding-bottom: 20px;
+}
+
+.our-loc-header3 {
+    font-family: GTWalsheimPro;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+    padding-bottom: 120px;
+}
+
+.state-header {
+    font-family: GTWalsheimProTrial;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    color: #4a4a4a;
+    padding-bottom: 30px;
+}
+
+.state-header text {
+    border-bottom: solid 3px #226fac;
+}
+
+.city-column {
+    padding-top: 34px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.city {
+    font-family: GTWalsheimProTrial;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    justify-content: start;
+    color: #4a4a4a;
+}
+
+.our-coverage-header {
+    font-family: TiemposHeadline;
+    font-size: 60px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #454a51;
+    padding-bottom: 5px;
+}
+
+.our-coverage-header2 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #454a51;
+    padding-bottom: 90px;
+}
+
+.our-cov-header {
+    font-family: GTWalsheimPro;
+    font-size: 28px;
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.46;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: #454a51;
+    padding-bottom: 6px;
+}
+
+.our-cov-text {
+    font-family: GTWalsheimPro;
+    font-size: 28px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.46;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: #454a51;
+}
+
+.cov-center-block {
+    border-left: solid 3px #226fac;
+    border-right: solid 3px #226fac;
+}
+
+.our-cov-section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.our-cov-btn-row {
+    padding-top: 65px;
+}
+
+.our-cov-btn {
+    height: 57px;
+    border-radius: 4.5px;
+    background-color: #226fac;
+    font-family: InterUI;
+    font-size: 25.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff !important;
+    padding-top: 8px;
+    border: 3px solid #226fac;
+}
+
+.the-team-header {
+    font-family: TiemposHeadline;
+    font-size: 60px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #454a51;
+    padding-top: 300px;
+    padding-bottom: 6px;
+}
+
+.the-team-header2 {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #454a51;
+    padding-bottom: 14px;
+}
+
+.the-team-annotation {
+    font-family: GTWalsheimPro;
+    font-size: 23px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+    padding-left: 29%;
+    padding-right: 29%;
+    padding-bottom: 15px;
+}
+
+.team-member-card-image img {
+    min-height: 161px;
+}
+
+.team-card-text-section {
+    padding: 12px 43px 40px 22px;
+    background-color: #8F9297;
+    height: 450px;
+}
+
+.team-card-name {
+    font-family: GTWalsheimProTrial;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.team-card-proffession {
+    font-family: GTWalsheimProTrial;
+    font-size: 16px;
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+    padding-bottom: 12px;
+}
+
+.team-card-text {
+    font-family: GTWalsheimPro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.center {
+    text-align: center;
+}
+
+.modal-block {
+    width: 1200px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 20%) !important;
+}
+
+.modal-close {
+    margin-top: 20px;
+    margin-right: 5px;
+}
+
+.close-btn {
+    width: 30px;
+}
+
+.modal-col {
+    padding: 0;
+}
+
+.benefits-with-col {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.benefits-header {
+    font-family: TiemposHeadline;
+    font-size: 55px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #454a51;
+    padding-bottom: 40px;
+}
+
+.benefits-text {
+    font-family: GTWalsheimPro;
+    font-size: 28px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: 0.1px;
+    color: #4a4a4a;
+    padding-left: 24px;
+}
+
+.benefits-advantages {
+    padding-bottom: 40px;
+}
+
+.content-menu {
+    border-bottom: solid 5px #226fac;
+    padding-bottom: 0px;
+}
+.scrollable-content-menu-vendors {
+    border-bottom: solid 5px #226fac;
+    padding-bottom: 0px;
+}
+
+.content-menu-text {
+    font-family: GTWalsheimProTrial;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #454a51
+}
+.content-menu-one {
+    border-bottom: solid 5px #226fac;
+    border-radius: 0;
+}
+.seller-padding {
+    padding-top: 30px;
+}
+.seller-outborder {
+    border: none;
+}
+.vendors-content,
+.vendors-content2,
+.vendors-content3 {
+    padding-top: 60px;
+    font-family: GTWalsheimPro;
+    font-size: 26px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #454a51;
+    padding-bottom: 70px;
+}
+.vendors-content2 {
+    display: none;
+}
+.vendors-content3 {
+    display: none;
+}
+.content-menu-vendors {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.content-menu-products {
+    max-width: 954px;
+    padding-bottom: 100px;
+}
+.advantages-row {
+    padding-bottom: 20px;
+}
+.blue-text {
+    font-family: GTWalsheimPro;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #226fac;
+}
+.second-text {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #4a4a4a;
+    margin-top: 33px;
+}
+.margin-top-text {
+    padding-top: 33px;
+}
+.products-header {
+    font-family: TiemposHeadline;
+    font-size: 60px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #454a51;
+    padding-bottom: 10px;
+}
+.products-header-text {
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: oblique;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4a4a4a;
+    padding-bottom: 150px;
+}
+.products-paragraph {
+    font-family: GTWalsheimPro;
+    font-size: 23px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: normal;
+    color: #4a4a4a;
+    padding-top: 30px;
+}
+.blue-box {
+    height: 71px;
+    border-radius: 1px;
+    background-color: #226fac;
+    font-family: GTWalsheimProTrial;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+.svg-padding-left {
+    padding-left: 0px;
+}
+.second-vendors-padding {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 1px;
+}
+.grey-text {
+    font-family: GTWalsheimProTrial;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #454a51;
+}
+.prod-menu-text {
+    font-family: GTWalsheimProTrial;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #454a51;
+}
+.col-point-menu {
+    padding-top: 156px;
+    padding-right: 40px;
+}
+.prod-obj5,
+.prod-obj4,
+.prod-obj3,
+.prod-obj2 {
+    display: none;
+}
+
+.login-header {
+    font-family: TiemposHeadline;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #444a52;
+    padding-bottom: 10px;
+}
+
+.login-inner-block {
+    padding-top: 80px;
+    padding-left: 200px;
+    padding-right: 195px;
+}
+
+.login-page-form {
+    height: 32px;
+    border-radius: 1px;
+    border: solid 1px #454a51;
+}
+
+.login-form-group {
+    width: 310px;
+    margin-top: 22px;
+}
+
+.login-page-from-label {
+    font-family: GTWalsheimPro;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #454a51;
+}
+
+.form-check {
+    padding-left: 0px;
+}
+
+.container-check {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.container-check input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    background-color: #ffffff;
+    border: solid 1px #979797;
+}
+
+
+.container-check:hover input ~ .checkmark {
+    background-color: #ffffff;
+}
+
+.container-check input:checked ~ .checkmark {
+    background-color: #226fac;
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.container-check input:checked ~ .checkmark:after {
+    display: block;
+}
+
+.remember-me {
+    margin-top: 2px;
+}
+.sign-up-btn {
+    border: solid 2.7px #3fc9ea;
+    border-radius: 4.5px;
+    width: 147px;
+    height: 40px;
+    font-family: InterUI;
+    font-size: 21.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #1d4460;
+    padding: 0px;
+    padding-top: 2px;
+}
+
+.login-btn {
+    height: 57px;
+    font-family: InterUI;
+    font-size: 21.2px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+    border: solid 2.7px #226fac;
+    width: 147px;
+    height: 40px;
+    border-radius: 4.5px;
+    text-align: center;
+    background-color: #226fac;
+    padding: 0px;
+    padding-top: 2px;
+}
+
+.products-background-image {
+    background-image: url("images/Prod&Serv2nd.png");
+    background-position: center;
+    background-size: cover;
+    height: 530px;
+}
+
+.white-block-header-prod2 {
+    font-family: TiemposHeadline;
+    font-size: 60px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.27;
+    letter-spacing: 0px;
+    color: #4a4a4a;
+}
+.white-block-header-prod {
+    font-family: TiemposHeadline;
+    font-size: 48px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.58;
+    letter-spacing: 0px;
+    color: #4a4a4a;
+}
+
+.products-text-row {
+    padding-top: 68px;
+}
+
+.square-3 {
+    margin-top: 10px;
+}
+.prod-list-text {
+    font-family: GTWalsheimPro;
+    font-size: 23px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.3;
+    letter-spacing: 0.1px;
+    color: #4a4a4a;
+    padding-bottom: 24px;
+}
+
+.products-article-block {
+    font-family: GTWalsheimPro;
+    font-size: 23px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: 0px;
+    color: #4a4a4a;
+}
+.products-article-block2 {
+    font-family: GTWalsheimPro;
+    font-size: 23px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: 0px;
+    color: #4a4a4a;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.sign-up-header {
+    font-family: TiemposHeadline;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #444a52;
+    margin-right: 20px;
+    padding-bottom: 30px;
+    padding-top: 40px;
+}
+
+.chekbox-label-signup {
+    padding-left: 5px;
+    padding-top: 3px;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #454a51;
+    margin-left: -10px;
+}
+
+.border-radius-chekmark {
+    border-radius: 3px;
+    height: 17px;
+    width: 17px;
+    padding-right: 0;
+}
+
+.btn-sign-up-row {
+    margin-left: 30px;
+    padding-top: 33px;
+}
+
+.sign-up-btn2 {
+    border: solid 2.7px #3fc9ea;
+    border-radius: 4.5px;
+    width: 271px;
+    height: 63px;
+    font-family: InterUI;
+    font-size: 33px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #4a4a4a;
+    padding: 0px;
+    padding-top: 7px;
+}
+
+.sign-up-container {
+    border: #454a51 1px solid;
+    max-width: 953px;
+    background-color: white;
+    margin-top: 140px;
+    padding-left: 138px;
+    padding-right: 128px;
+    min-height: 654px;
+    margin-bottom: 84px;
+    padding-bottom: 71px;
+}
+.prod-ob-text-row {
+    padding-top: 20px;
+}
+.prod-list-text-bold {
+    font-weight: 700;
+}
+.prod-ob-text-pad-top {
+    padding-top: 10px;
+}
+.calculator-header-padding {
+    padding-bottom: 60px;
+}
+.calculate-head-text {
+    margin-left: -11px;
+}
+.closing-cost-icon {
+    background-image: url("images/closingcostLogo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70%;
+}
+.closing-cost-head-article {
+    padding-top: 20px;
+    padding-bottom: 90px;
+}
+.closing-cost-head-article-text {
+    color: #454a51;
+    font-family: InterUIRegular;
+    font-size: 32px;
+    font-weight: 400;
+}
+.closing-cost-text-underline {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 32px;
+    font-weight: 900;
+    padding-bottom: 5px;
+    border-bottom: 3px solid #3fc9ea;
+}
+.closing-cost-text-2-row {
+    padding-top: 50px;
+}
+
+.white-section-text1 {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 200;
+}
+.white-section-text2 {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 600;
+}
+.white-section-text3 {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.big-backquotes {
+    color: #3fc9ea;
+    font-family: TiemposHeadline;
+    font-size: 186px;
+    font-weight: 200;
+    transform:rotate(180deg);
+    vertical-align: bottom;
+    margin-bottom: -130px;
+}
+
+.calculate-text {
+    color: #454a51;
+    font-family: InterUIRegular;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38px;
+}
+
+.big-calculate-text {
+    padding-top: 100px;
+}
+
+
+.orword {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    color: #ffffff;
+    font-family: InterUIRegular;
+    font-size: 24px;
+    font-weight: 700;
+}
+.input-row-closecalculate {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.input-row-closecalculate2 {
+    padding-bottom: 35px;
+}
+.text-row-paddings {
+    padding-top: 35px;
+    padding-bottom: 130px;
+}
+.no-padding-left {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.img-container {
+    height: 300px;
+}
+
+.closing-cost-text-2 {
+    color: #454a51;
+    font-family: "Tiempos Text";
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.calculate-head-text2 {
+    margin-left: 10px;
+}
+
+.closing-calc-btns-col {
+    padding-right: 40px;
+}
+
+.closing-calc-btns-row {
+    padding-top: 35px;
+    padding-bottom: 40px;
+}
+
+.calculate-loan-costs {
+    border-left: 1px solid #979797;
+    border-top: 1px solid #979797;
+    border-bottom: 1px solid #979797;
+    background-color: #f3f4f4;
+}
+
+.calculate-other-costs {
+    border-left: 1px solid #979797;
+    border-bottom: 1px solid #979797;
+    border-right: 1px solid #979797;
+    background-color: #f3f4f4;
+}
+
+.calculate-graph {
+    height: 60px;
+
+}
+.calculate-graph-without-border {
+    height: 60px;
+}
+
+.calculate-graph-whitespace {
+    height: 60px;
+}
+
+.all-price {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.border-padding {
+    width: 30px;
+}
+.calculate-col-border-price {
+    height: 60px;
+    border-bottom: 1px solid #979797;
+    text-align: center;
+    padding-top: 12px;
+}
+.single-price {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.calculate-col-border-text {
+    padding-top: 12px;
+    border-bottom: 1px solid #979797;
+}
+
+.price-graph-text {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.price-graph-category {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.calculate-graph-header {
+    color: #454a51;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 25px;
+    font-family: InterUIRegular;
+    font-size: 32px;
+    font-weight: 700;
+}
+.calculate-graph-header-row {
+    padding-top: 20px;
+}
+
+.calculate-loan-prices {
+    border: 1px solid #979797;
+    border-bottom: 1px solid #979797;
+    background-color: #F3F4F4;
+}
+
+.no-border-bottom {
+    border-bottom: none;
+}
+
+.timios-info-header {
+    color: #454a51;
+    font-family: InterUIRegular;
+    font-size: 32px;
+    font-weight: 700;
+}
+.timios-info-text {
+    color: #454a51;
+    font-family: "GT Walsheim Pro - Regular";
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 7px;
+    padding-right: 5px;
+}
+.timios-info-text-important {
+    color: #454a51;
+    font-family: GTWalsheimProTrial;
+    font-size: 32px;
+    font-weight: 700;
+    padding-right: 20px;
+}
+.timios-info-order-text {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 700;
+    padding-top: 8px;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.timios-info-col {
+    padding-left: 70px;
+    padding-top: 90px;
+}
+
+.timios-under-info-row {
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.timios-under-info-col {
+    background-color: #0070B0;
+    padding-left: 45px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.timios-under-info-text {
+    color: #fffefe;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 8px;
+    padding-right: 15px;
+}
+
+.timios-under-info-text-important {
+    color: #fffefe;
+    font-family: GTWalsheimProTrial;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.title-calculator-services {
+    padding-top: 50px;
+    padding-left: 45px;
+    padding-bottom: 51px;
+    border-bottom: 2px solid #979797;
+}
+.title-calculator-services3 {
+    padding-top: 50px;
+    padding-left: 45px;
+}
+
+.calculator-services-title-text {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.title-calculator-services2 {
+    padding-top: 25px;
+    padding-bottom: 12px;
+}
+
+.insurance-cost-text {
+    border: 1px solid #979797;
+    background-color: #F3F4F4;
+}
+.insurance-cost-price {
+    border-right: 1px solid #979797;
+    border-top: 1px solid #979797;
+    border-bottom: 1px solid #979797;
+    background-color: #F3F4F4;
+}
+
+.insurance-symbols {
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.insurance-in-border {
+    border-bottom: 1px solid #979797;
+}
+
+.insurance-price-center {
+    justify-content: center;
+    text-align: center;
+}
+.calculator-note-row {
+    background-color: #0070b0;
+    padding-left: 44px;
+    padding-top: 44px;
+    padding-bottom: 53px;
+    padding-right: 60px;
+}
+
+.calculator-pay-selector-title-row {
+    padding-top: 42px;
+    padding-bottom: 34px;
+    padding-left: 43px;
+}
+
+.calculator-pay-selector {
+    padding-left: 43px;
+    padding-bottom: 80px;
+}
+
+.calculator-pay-selector-title {
+    color: #454a51;
+    font-family: InterUIRegular;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.calculator-note-header {
+    color: #fffefe;
+    font-family: TiemposHeadline;
+    font-size: 48px;
+    font-weight: 500;
+    padding-bottom: 25px;
+}
+
+.calculator-note-text {
+    color: #fffefe;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.calculator-big-row-padding {
+    padding-top: 86px;
+    padding-bottom: 80px;
+}
+
+.calculator-contacts-big-row {
+    background-color: #0070b0;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.calculator-contaxt-text {
+    color: #fdfcfd;
+    font-family: GTWalsheimPro-Regular;
+    font-size: 24px;
+    font-weight: 100;
+}
+
+.calculator-contaxt-info {
+    color: #fdfcfd;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.calculator-contaxt-info-underline {
+    color: #fdfcfd;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.calculator-info-col {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.gfe-quote-text {
+    padding-left: 9px;
+    color: #454a51;
+    font-family: "Tiempos Text";
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.gfe-quote-underline-text {
+    color: #454a51;
+    font-family: "Tiempos Text";
+    font-size: 52px;
+    font-weight: 700;
+    border-bottom: 5px solid #3fc9ea;
+}
+
+.gfe-quote-header-col {
+    padding-top: 50px;
+    padding-bottom: 35px;
+}
+
+.gfe-big-quote-row {
+    padding-top: 60px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.gfe-quote-row {
+    border: 1px solid #979797;
+    background-color: #f3f4f4;
+}
+
+.gfe-quote-section {
+    border-bottom: 1px solid #979797;
+    height: 120px;
+    padding-top: 40px;
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 400;
+}
+.gfe-quote-section-minus-bottm-border {
+    border-bottom: none;
+    height: 120px;
+    padding-top: 40px;
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.gfe-price-symbols {
+    padding-top: 40px;
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 700;
+    height: 120px;
+    border-bottom: 1px solid #979797;
+}
+.gfe-price-symbols-no-border {
+    padding-top: 40px;
+    color: #454a51;
+    font-family: GTWalsheimPro;
+    font-size: 24px;
+    font-weight: 700;
+    height: 120px;
+    border-bottom: none;
+}
+
+.gfe-border-row {
+    padding-right: 30px;
+    border-right: 1px solid #979797;
+}
+/*///////////BIG MENU PRE STYLING///////////*/
+.ecrow2-content {
+    display: none;
+}
+.ecrow3-content {
+    display: none;
+}
+.ecrow4-content {
+    display: none;
+}
+
+.escrow-services-content {
+    display: none;
+}
+
+/* //////////HOVER PRE STYLING//////*/
+.hover-aqua-blue-to-white:hover {
+    background-color: white;
+    color: #226fac !important;
+    border-color: 3px solid #226fac;
+}
+
+.hover-aqua-blue-to-dark-blue:hover {
+    background-color: #226fac;
+    color: white !important;
+    border-color: #226fac;
+}
+
+.hover-dark-blue-to-aqua-blue:hover {
+    background-color: white;
+    color: #1d4460 !important;
+    border: 3px solid #3fc9ea;
+}
+
+
+
+.login-container {
+    border: #454a51 1px solid;
+    max-width: 756px;
+    background-color: white;
+    margin-top: 140px;
+    min-height: 654px;
+    margin-bottom: 84px;
+}
+
+/*////////STYLING RADIO BTNS/////////*/
+
+.radio {
+    margin: 0.5rem;
+  }
+  .radio input[type=radio] {
+    position: absolute;
+    opacity: 0;
+  }
+  .radio input[type=radio] + .radio-label:before {
+    content: "";
+    background: #226FAC;
+    border-radius: 100%;
+    border: 1px solid #FFFEFE;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 4px;
+    margin-right: 1em;
+    vertical-align: top;
+    cursor: pointer;
+    text-align: center;
+    transition: all 250ms ease;
+  }
+  .radio input[type=radio]:checked + .radio-label:before {
+    background-color: #FFFEFE;
+    box-shadow: inset 0 0 0 4px #226FAC;
+  }
+  .radio input[type=radio]:focus + .radio-label:before {
+    outline: none;
+    border-color: #FFFEFE;
+  }
+  .radio input[type=radio]:disabled + .radio-label:before {
+    box-shadow: inset 0 0 0 4px #226FAC;
+    border-color: #0d2a42;
+    background: #0d2a42;
+  }
+  .radio input[type=radio] + .radio-label:empty:before {
+    margin-right: 0;
+  }
+
+  .radio-label {
+    color: #ffffff;
+    font-family: InterUIRegular;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.radio-col {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/*//////FOOTER LINKS STYLING///////////*/
+.footer-links a{
+    text-decoration: none;
+}
+.footer-links a:hover {
+    color: #e0e0e0;
+}
